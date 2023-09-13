@@ -9,7 +9,7 @@ $enlace = mysqli_connect(
 if ($enlace) {
     echo "Connection succes";
 } else {
-    echo "fail connection"
+    echo "fail connection";
 }
 
 ?>
